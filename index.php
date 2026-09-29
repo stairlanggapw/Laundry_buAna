@@ -13,9 +13,9 @@
     <script src="assets/js/bootstrap.js"></script>
 </head>
 <body style="background: #adabab">
-    <ul style="margin: 5px;" class="nav navbar-nav" id="bs-example-navbar-collapse-1">
-       <li><a style="text-decoration: none; color: inherit;" href="index.html"><i class="glyphicon glyphicon-back">Back</i></a></li>
-    </ul>
+    <div style=" margin-left: 20px; margin-top: 15px;">
+        <a href="index.html" class="btn btn-default"><i class="glyphicon glyphicon-arrow-left"></i> Back</a>
+    </div>
     <br><br>
     <center>
         <h2>Sistem Informasi Laundry <br></h2>
